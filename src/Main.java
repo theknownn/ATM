@@ -28,6 +28,9 @@ class ATM {
                     System.out.println("Enter money you want to withdraw :");
 
                     //get withdrawl money from user
+                    withdrawl = sc.nextInt();
+
+
             }
         }
 
